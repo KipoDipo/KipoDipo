@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-Welcome to my GitHub page! Here you may find my personal projects (which seldom get finished) and some other things. My comfort zone thus far has been with graphics programming with C++ and C# and some scripting with Python, but I am wokring on expanding my skillset via Web and Embedded technologies. 
+Welcome to my GitHub page! Here you may find my personal projects (which seldom get finished) and some other things. My comfort zone thus far has been with graphics programming with C++ and C# and some scripting with Python, but I am working on expanding my skillset via Web and Embedded technologies. 
 
 I've graduated Sofia University with a ***Bachelor's degree in Information Systems*** and am currently persuing a Master's degree in Technology Entrepreneurship and Innovation in Information Technology.
 
