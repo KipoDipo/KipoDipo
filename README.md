@@ -4,7 +4,7 @@ Welcome to my GitHub page! Here you may find my personal projects (which seldom 
 
 I've graduated Sofia University with a ***Bachelor's degree in Information Systems*** and am currently persuing a Master's degree in Technology Entrepreneurship and Innovation in Information Technology.
 
-At present I am a teaching assitaint in **Introduction to Programming** and **Object-Oriented Programming** at the Faculty of Mathematics and Informatic @ Sofia University, so you may find my repos for those courses here (in C and C++)
+At present I am a teaching assitaint in **Introduction to Programming** and **Object-Oriented Programming** at the Faculty of Mathematics and Informatics @ Sofia University, so you may find my repos for those courses here (in C and C++)
 
 🔗 Links to tech things I find cool 👇
 
